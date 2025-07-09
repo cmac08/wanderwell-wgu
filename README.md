@@ -1,2 +1,2 @@
-# wanderwell-wgu.github.io
+# wanderwell-wgu
 Android Mobile App for SWE Capstone Project
